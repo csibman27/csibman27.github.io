@@ -9,7 +9,7 @@ title: Tibor Molnar
 # Academic Title: A web application for Managing IT Equipment primarily in data center
 
 
-** Deliverables
+### Deliverables
 * [Github Repository](https://github.com/csibman27/LCManagerV3)
 -----
 
