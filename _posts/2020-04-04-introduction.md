@@ -4,8 +4,13 @@ title: Tibor Molnar
 ---
 
 
-*Github Repository: https://github.com/csibman27/LCManagerV3
+## Standalone management web application
+# Commercial Title: “Server Life Cycle Manager”
+# Academic Title: A web application for Managing IT Equipment primarily in data center
 
+
+** Deliverables
+* [Github Repository](https://github.com/csibman27/LCManagerV3)
 -----
 
 Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
