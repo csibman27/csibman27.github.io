@@ -39,6 +39,9 @@ author:
 # Custom vars
 version: 3.0.0
 
+include:
+  - "_img"
+
 # Navbar page list
 # nav:
 #   - title: Blog
