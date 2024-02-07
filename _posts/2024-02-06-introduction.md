@@ -4,7 +4,7 @@ title: Tibor Molnar
 ---
 
 # Student Number: 20074237
-# Profile Photo
+# Profile Photo  ![alt text](tmolnar.png)
 
 # Commercial Title: “Server Life Cycle Manager”
 # Academic Title: A web application for Managing IT Equipment primarily in data center
