@@ -3,46 +3,32 @@ layout: post
 title: Tibor Molnar
 ---
 
+# Student Number: 20074237
+# Profile Photo
 
-## Standalone management web application
 # Commercial Title: “Server Life Cycle Manager”
 # Academic Title: A web application for Managing IT Equipment primarily in data center
 
 
+## Project type: Standalone management web application
+
+
 ### Deliverables
 * [Github Repository](https://github.com/csibman27/LCManagerV3)
+* 
 -----
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
 
-This demo site was last updated {{ site.time | date: "%B %d, %Y" }}.
+## What else needs to be included
 
-There are currently two themes built on Poole:
+Create a single web page, with name, project, photo, and additional links for the project which will include some or all of the following:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+    your proposal, final report, hosted video, presentation slides, link to site or app download, deployment instructions, Slack, Trello, github repos used in the project, link to application, etc.
 
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
+    **Abstract**/Summary text 100 words max, for use in showcase handbook.
 
-## What's included
+    A **project image** to represent your project (e.g. 1920*1080). i.e. a visual poster. This could be a screenshot or a composition of many screenshots. System diagram, logos for key technologies used (Quick tip: capture some screens, crop and paste onto a Powerpoint slide width 1920, height 1080, and export as .png). Treat it like a poster! Use a background or border.
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
+    **Project type** {web app, mobile app, both, CI/CD, physical computing, AI, OTHER}.
+    - Technolgies/Keywords {React, Flutter, Kubernetes, AWS, etc}
 
-* Complete Jekyll setup included (layouts, config, [404]({{ '404.html' | relative_url }}), [RSS feed]({{ 'atom.xml' | relative_url }}), posts, [archive page]({{ 'archive' | relative_url }}), and [example page]({{ 'about' | relative_url }}))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Jekyll's built-in support for Rouge
-
-Additional features are available in individual themes.
-
-## Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), Firefox, and Edge.
-
-## Download
-
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
-
-Thanks!
