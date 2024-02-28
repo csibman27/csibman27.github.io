@@ -16,7 +16,7 @@ title: Tibor Molnar
 
 ### Deliverables
 * [Github Repository](https://github.com/csibman27/LCManagerV3)
-* [Link to Proposal] (https://docs.google.com/document/d/1bgDe8jQAO7s6_aowm_xHE41zpCl0EDy7/edit?usp=sharing&ouid=115669550951731795424&rtpof=true&sd=true)
+* [Link to Proposal](https://docs.google.com/document/d/1bgDe8jQAO7s6_aowm_xHE41zpCl0EDy7/edit?usp=sharing&ouid=115669550951731795424&rtpof=true&sd=true)
 * Link to Final Report
 * Link to Hosted Video
 * Link to Presentation slides
