@@ -16,7 +16,7 @@ title: Tibor Molnar
 
 ### Deliverables
 * [Github Repository](https://github.com/csibman27/LCManagerV3)
-* Link to Proposal
+* [Link to Proposal] (https://docs.google.com/document/d/1bgDe8jQAO7s6_aowm_xHE41zpCl0EDy7/edit?usp=sharing&ouid=115669550951731795424&rtpof=true&sd=true)
 * Link to Final Report
 * Link to Hosted Video
 * Link to Presentation slides
@@ -34,8 +34,6 @@ LCManager is a web application designed specifically for system administrators t
 - your proposal, final report, hosted video, presentation slides, link to site or app download, deployment instructions, Slack, Trello, github repos used in the project, link to application, etc.
 
 - A **project image** to represent your project (e.g. 1920*1080). i.e. a visual poster. This could be a screenshot or a composition of many screenshots. System diagram, logos for key technologies used (Quick tip: capture some screens, crop and paste onto a Powerpoint slide width 1920, height 1080, and export as .png). Treat it like a poster! Use a background or border.
-
 **Project type** {web app, mobile app, both, CI/CD, physical computing, AI, OTHER}.
-
 - Technolgies/Keywords {React, Flutter, Kubernetes, AWS, etc}
 
