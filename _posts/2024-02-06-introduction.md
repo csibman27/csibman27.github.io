@@ -4,8 +4,8 @@ title: Tibor Molnar
 ---
 
 
-# :bulb: Commercial Title: “Server Life Cycle Manager”
-## :bulb: Academic Title: A web application for Managing IT Equipment primarily in data center
+# Commercial Title: “Server Life Cycle Manager”
+## Academic Title: A web application for Managing IT Equipment primarily in data center
 
 
 ## Project type: Standalone management web application
