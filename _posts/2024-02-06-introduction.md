@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Tibor Molnar
+title: Commercial Title: “Server Life Cycle Manager”
 ---
 
 ![](/assets/img/server1.jpeg)
 
 
-# Commercial Title: “Server Life Cycle Manager”
+
 ## Academic Title: A web application for Managing IT Equipment primarily in data center
 
 
 ## Project type: Standalone management web application
-
+>
 
 
 ## Abstract
@@ -40,4 +40,5 @@ LCManager is a web application designed specifically for system administrators t
 ![](/assets/img/tmolnar2_pic.png)
 
 >  Student Number: 20074237
+>  Student Name: Tibor Molnar
 
