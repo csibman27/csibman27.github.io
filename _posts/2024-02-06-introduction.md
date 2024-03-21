@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Commercial Title: “Server Life Cycle Manager”
+title: 'Commercial Title: Server Life Cycle Manager'
 ---
 
 ![](/assets/img/server1.jpeg)
@@ -11,7 +11,6 @@ title: Commercial Title: “Server Life Cycle Manager”
 
 
 ## Project type: Standalone management web application
->
 
 
 ## Abstract
@@ -25,13 +24,11 @@ LCManager is a web application designed specifically for system administrators t
 * Link to Hosted Video
 * Link to Presentation slides
 * Link to Web application site (will host one with a seperate dns added)
-* Deployment Instructions if any
->
 
 
 # Profile Photo
 ![](/assets/img/tmolnar2_pic.png)
 
->  Student Number: 20074237
+>  Student Number: 20074237 |
 >  Student Name: Tibor Molnar
 
