@@ -26,15 +26,8 @@ LCManager is a web application designed specifically for system administrators t
 * Link to Presentation slides
 * Link to Web application site (will host one with a seperate dns added)
 * Deployment Instructions if any
------
+>
 
-
-## What else needs to be included
-
-- Create a single web page, with name, project, photo, and additional links for the project which will include some or all of the following:
-
-- A **project image** to represent your project (e.g. 1920*1080). i.e. a visual poster. This could be a screenshot or a composition of many screenshots. System diagram, logos for key technologies used (Quick tip: capture some screens, crop and paste onto a Powerpoint slide width 1920, height 1080, and export as .png). Treat it like a poster! Use a background or border.
-**Project type** {web application}.
 
 # Profile Photo
 ![](/assets/img/tmolnar2_pic.png)
