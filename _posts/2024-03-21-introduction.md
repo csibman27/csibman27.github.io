@@ -25,8 +25,8 @@ LCManager is a web application designed specifically for system administrators t
 * Link to Presentation slides
 * Link to Web application site (will host one with a seperate dns added)
 
->  Name: Tibor Molnar
-# Profile Photo
+
+## Tibor Molnar
 ![](/assets/img/tmolnar2_pic.png)
 
 >  Student Number: 20074237
