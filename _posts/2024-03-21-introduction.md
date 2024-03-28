@@ -23,7 +23,7 @@ LCManager is a web application designed specifically for system administrators t
 * Link to Final Report
 * Link to Hosted Video
 * Link to Presentation slides
-* Link to Web application site (will host one with a seperate dns added)
+* [Link to Web application site](https://lcmanager.waltoninstitute.ie/)
 
 
 ## Tibor Molnar
