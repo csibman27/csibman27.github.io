@@ -20,10 +20,10 @@ LCManager is a web application designed specifically for system administrators t
 ### Deliverables
 * [Github Repository](https://github.com/csibman27/LCManagerV3)
 * [Link to Proposal](https://docs.google.com/document/d/1bgDe8jQAO7s6_aowm_xHE41zpCl0EDy7/edit?usp=sharing&ouid=115669550951731795424&rtpof=true&sd=true)
-* Link to Final Report
+* [Link to Final Report](https://docs.google.com/document/d/1L9k-RmB4x72a1t45rKlOd9WI_mS1hEmb/edit?usp=sharing&ouid=115669550951731795424&rtpof=true&sd=true)
 * Link to Hosted Video
 * Link to Presentation slides
-* [Link to Web application site](https://lcmanager.waltoninstitute.ie/)
+* [Link to Web application hosted](https://lcmanager.waltoninstitute.ie/)
 
 
 ## Tibor Molnar
